@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@600&family=Rubik:ital,wght@0,600;1,600&display=swap');
+:root{
+    --primary-font:white;
+    --background-color: #1E1E1E;
+    --secondary-font: #FD6F00;
+
+    ;
+}
+*{
+    font-family: "Rubik", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    
+}
+body{
+    background-color: var(--background-color);
+}
